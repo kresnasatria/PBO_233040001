@@ -10,6 +10,9 @@ package pertemuan9;
 //	}
 //}
 
+//=========================================================================================================================================
+
+
 //--Latihan 2--
 //public class InheritanceMain{
 //	public static void main(String[] args) {
@@ -18,6 +21,9 @@ package pertemuan9;
 //	}
 //}
 
+//=========================================================================================================================================
+
+
 //--Latihan 3--
 //public class InheritanceMain{
 //	public static void main(String[] args) {
@@ -25,6 +31,9 @@ package pertemuan9;
 //		System.out.println(mhs.getNama() + "-" + mhs.getAlamat());
 //	}
 //}
+
+//=========================================================================================================================================
+
 
 //--Latihan 4--
 //public class InheritanceMain{
